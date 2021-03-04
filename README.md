@@ -24,6 +24,7 @@ Assumptions:
         front of someone.
 
 Solution:
+
     1.  Read in all Reservation Request
     2.  One at a time based on which order came first. Determine the seat
         location
