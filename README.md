@@ -40,6 +40,7 @@ Solution:
 
 
 How to Run Program on Terminal:
+
     1.  Navigate to file location on terminal (cd ../..)
     2.  Compile Code through comand: g++ -std=c++17 *.cpp
     3.  Run the code: ./a.out < input_file > ouput_file
