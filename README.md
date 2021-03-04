@@ -7,6 +7,7 @@ Walmart: Movie Theater Seating Challenge - 2020
 
 
 Assumptions:
+
     1.  File given in terminal is valid. Input file is in same directory.
     
     2.  There are not repeating request numbers. Seat numbers for a row start at
